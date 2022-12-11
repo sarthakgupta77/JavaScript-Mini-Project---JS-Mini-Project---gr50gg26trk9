@@ -28,7 +28,7 @@ let songs = [
     coverPath: "CoverImg.png",
   },
   {
-    songName: "Har Har Shambhu Shiv Mahadeva(PagalWorld.com.)",
+    songName: "Har Har Shambhu Shiv Mahadeva(Paga)",
     filePath: "songs/3.mp3",
     coverPath: "CoverImg.png",
   },

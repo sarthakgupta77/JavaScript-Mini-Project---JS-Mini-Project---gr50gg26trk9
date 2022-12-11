@@ -40,7 +40,7 @@ nav ul li {
 
 .container {
   min-height: 65vh;
-  background-color: rgb(177, 8, 8);
+  background-color: rgb(0, 0, 0);
   color: white;
   font-family: "Varela Round", sans-serif;
   display: flex;
@@ -48,6 +48,7 @@ nav ul li {
   margin: 23px auto;
   border-radius: 12px;
   padding: 14px;
+  
 }
 
 .bottom {
@@ -86,6 +87,7 @@ nav ul li {
   justify-content: space-between;
   align-items: center;
   border-radius: 26px;
+  margin-right:px;
 }
 
 .songItem img {
