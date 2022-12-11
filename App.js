@@ -14,32 +14,32 @@ let masterSong = document.getElementById('masterSong');
 let songs = [
   {
     songName: "Safar - PagalWorld.cool",
-    filePath: "songs/0.mp3",
+    filePath: "songs/0.mpeg",
     coverPath: "CoverImg.png",
   },
   {
-    songName: "Piya Aaye Na - PagalWorld.cool",
-    filePath: "songs/1.mp3",
+    songName: "Piya Aaye Na ",
+    filePath: "songs/1.mpeg",
     coverPath: "CoverImg.png",
   },
   {
-    songName: "Thoda Thoda Pyar(PagalWorld)",
-    filePath: "songs/2.mp3",
+    songName: "Thoda Thoda Pyar",
+    filePath: "songs/2.mpeg",
     coverPath: "CoverImg.png",
   },
   {
-    songName: "Har Har Shambhu Shiv Mahadeva(Paga)",
-    filePath: "songs/3.mp3",
+    songName: "Believer",
+    filePath: "songs/3.mpeg",
     coverPath: "CoverImg.png",
   },
   {
-    songName: "Dilbara",
-    filePath: "songs/4.mp3",
+    songName: "Thunder Thunder",
+    filePath: "songs/4.mpeg",
     coverPath: "CoverImg.png",
   },
   {
-    songName: "jiya dhak dhadak jaye[PagalWorld.com]",
-    filePath: "songs/5.mp3",
+    songName: "Shape of You ",
+    filePath: "songs/5.mpeg",
     coverPath: "CoverImg.png",
   },
 ];
